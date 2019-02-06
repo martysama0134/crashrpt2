@@ -1,1 +1,9 @@
 *.aps
+Release/
+Debug/
+*.db
+CMakeFiles/
+bin/
+CMakeCache.txt
+*.cmake
+lib/
